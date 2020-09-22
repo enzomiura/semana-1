@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+}
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.texto{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.link{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
